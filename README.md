@@ -5,6 +5,7 @@ This is a simple emotion detection project which helps to capture our face and d
 Libraries like numpy,cv2,keras,tensorflow were used.
 
 Emotions detected are
+
 1.Neutral
 
 2.Happy
@@ -15,3 +16,4 @@ Emotions detected are
 
 5.Angry
 
+Command to be executed while using the terminal to run faces.py is python faces.py or directly run faces.py file.
